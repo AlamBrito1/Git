@@ -16,6 +16,6 @@ public class ProyectoGit {
     public static void main(String[] args) {
         // TODO code application logic here
     
-   //EDITANDO LA CLASE JAVA
+   //EDITANDO LA CLASE JAVA :)
     }
 }
